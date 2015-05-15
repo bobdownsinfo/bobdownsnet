@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background: url(images/stock-coffee-beans-by-unamanic.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    font-size: 3em;
+    width: 75%;
+    margin: auto;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-family: Helvetica;
+}
+
+a {
+    font-family: Helvetica;
+}
+/* unvisited link */
+
+a:link {
+    color: white;
+}
+/* visited link */
+
+a:visited {
+    color: yellow;
+}
+/* mouse over link */
+
+a:hover {
+    color: yellow;
+}
+/* selected link */
+
+a:active {
+    color: yellow;
+}
