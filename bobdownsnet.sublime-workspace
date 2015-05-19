@@ -15,8 +15,17 @@
 			"file": "socialMedia.html",
 			"settings":
 			{
-				"buffer_size": 1996,
+				"buffer_size": 2067,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "(at https://www.linkedin.com/in/bobdownsinfo).",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Windows",
+				"name": "(at https://www.linkedin.com/in/bobdownsinfo)."
 			}
 		},
 		{
@@ -24,6 +33,14 @@
 			"settings":
 			{
 				"buffer_size": 307,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 618,
 				"line_ending": "Windows"
 			}
 		}
@@ -125,15 +142,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1996,
+						"buffer_size": 2067,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1969,
-								1969
+								158,
+								198
 							]
 						],
 						"settings":
@@ -151,6 +168,34 @@
 				},
 				{
 					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(at https://www.linkedin.com/in/bobdownsinfo).",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "home.html",
 					"semi_transient": false,
 					"settings":
@@ -162,7 +207,7 @@
 						"selection":
 						[
 							[
-								285,
+								197,
 								285
 							]
 						],
@@ -174,7 +219,37 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "stylesheet.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
