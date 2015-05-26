@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"di",
+				"display"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
 				"mar",
 				"margin"
 			]
@@ -12,27 +24,21 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html>\n\n<head>\n    <link type=\"text/css\" rel=\"stylesheet\" href=\"stylesheet.css\" />\n</head>\n\n<body>\n    <ul>\n        <li>\n            <a href=\"https://www.linkedin.com/in/bobdownsinfo\"><img src=\"images/socialMedia/In-2C-28px-R.png\" alt=\"LinkedIn Logo\">LinkedIn</a>\n        </li>\n        <li>\n            <a href=\"https://www.facebook.com/bobdownsinfo\"><img src=\"images/socialMedia/FB-f-Logo__white_29.png\" alt=\"Facebook Logo\">Facebook</a>\n        </li>\n        <li><a href=\"https://twitter.com/bobdownsinfo\">Twitter</a></li>\n        <li><a href=\"https://plus.google.com/+BobDowns/about\">Google+</a></li>\n        <li><a href=\"https://www.flickr.com/people/csrcyborg/\">Flickr</a></li>\n        <li><a href=\"https://foursquare.com/bobdownsinfo\">Foursquare</a></li>\n        <li><a href=\"https://trustcloud.com/!/bobdownsinfo\">Trustcloud</a></li>\n        <li><a href=\"https://www.behance.net/w3bd3sign3r\">Behance</a></li>\n        <li><a href=\"https://github.com/bobdowns\">GitHub</a></li>\n        <li><a href=\"http://bobdowns.tumblr.com/\">Tumblr</a></li>\n        <li><a href=\"https://bobdowns.wordpress.com/\">My Old Writing Blog</a></li>\n        <li><a href=\"http://bobdowns.wpengine.com/\">My Current Writing Blog</a></li>\n        <li><a href=\"http://en.gravatar.com/bobdowns\">Gravatar</a></li>\n        <li><a href=\"https://www.blogger.com/profile/10076569728641887593\">Blogger</a></li>\n        <li><a href=\"https://www.goodreads.com/bobdowns\">Goodreads</a></li>\n        <li><a href=\"http://bobdowns.flavors.me/\">Flavors.me</a></li>\n        <li><a href=\"https://vimeo.com/bobdowns\">Vimeo</a></li>\n        <li><a href=\"https://about.me/bobdowns\">About.me</a></li>\n        <li><a href=\"https://ello.co/bobdowns\">ello</a></li>\n        <li><a href=\"https://medium.com/@bobdownsinfo\">Medium</a></li>\n        <li><a href=\"http://stackexchange.com/users/2298012/bobdowns\">StackExchange</a></li>\n        <li><a href=\"http://www.ebay.com/usr/cyborg_cyborg\">eBay</a></li>\n        <li><a href=\"http://codepen.io/bobdownsinfo/\">CodePen</a></li>\n        <li><a href=\"https://dribbble.com/bobdowns\">dribbble</a></li>\n        <li><a href=\"https://webapp4.asu.edu/directory/person/1437173\">ASU Directory Profile</a></li>\n        <li><a href=\"https://profile.live.com/cid-118a7311991bd61d/\">Microsoft Profile</a></li>\n        <li><a href=\"http://engineering-asu.confidentialresume.com/bobdowns/\">ASU Resume</a></li>\n    </ul>\n</body>\n\n</html>",
 			"file": "socialMedia.html",
+			"file_size": 2377,
+			"file_write_time": 130767264160291532,
 			"settings":
 			{
-				"buffer_size": 2067,
+				"buffer_size": 2433,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "(at https://www.linkedin.com/in/bobdownsinfo).",
-			"settings":
-			{
-				"buffer_size": 46,
-				"line_ending": "Windows",
-				"name": "(at https://www.linkedin.com/in/bobdownsinfo)."
 			}
 		},
 		{
 			"file": "home.html",
 			"settings":
 			{
-				"buffer_size": 307,
+				"buffer_size": 605,
 				"line_ending": "Windows"
 			}
 		},
@@ -40,7 +46,7 @@
 			"file": "stylesheet.css",
 			"settings":
 			{
-				"buffer_size": 618,
+				"buffer_size": 720,
 				"line_ending": "Windows"
 			}
 		}
@@ -89,10 +95,13 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Bob/Desktop/Bob's College Grants 2013-2015",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Bob/Google Drive/Web-Design/bobdownsnet/socialMedia.html",
 		"/C/Users/Bob/Google Drive/Web-Design/bobdownsnet/home.html",
 		"/C/Users/Bob/Documents/GitHub/bobdownsnet/README.md",
-		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Bob/Desktop/dejavu-fonts-ttf-2.34/README",
 		"/C/Users/Bob/Google Drive/Web-Design/Udacity/Flexbox/mostlyFluid/pattern-mostly-fluid-quiz-blankcss.html",
@@ -133,7 +142,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -142,15 +151,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2067,
+						"buffer_size": 2433,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								158,
-								198
+								2330,
+								2385
 							]
 						],
 						"settings":
@@ -160,55 +169,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 46,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "(at https://www.linkedin.com/in/bobdownsinfo).",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 227.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "home.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 307,
+						"buffer_size": 605,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								197,
-								285
+								587,
+								587
 							]
 						],
 						"settings":
@@ -219,24 +200,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "stylesheet.css",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 618,
+						"buffer_size": 720,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								618
+								400,
+								400
 							]
 						],
 						"settings":
@@ -249,7 +230,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
